@@ -11,8 +11,10 @@
 I'm currently pursuing my Bachelors in Computer Science and Engineering with a focus on Big Data. I enjoy discovering new programming languages and delivering innovative results. I experiment by using many interfaces and languages, and I learn by using some of them to create projects of my own.
 
 I'm also a great team player with good organisational and analytical abilities, a talent for picking up new ideas fast, and the ability to manage a work environment and communicate ideas.
-
+<b>My Stats</b> <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayan01&show_icons=true&theme=dark&locale=en&layout=compact" alt="aayan01" /></p>
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=aayan01&show_icons=true&theme=dark&locale=en" alt="aayan01" /></p>
+<b>Languages & tools</b> <br/>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=aayan01&show_icons=true&theme=dark&locale=en" alt="aayan01" /></p>
+<b>Current Streak</b> <br/>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=aayan01&theme=dark" alt="aayan01" /></p>
 

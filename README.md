@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Aayan</h1>
-<h3 align="center">A passionate software enginner and data-enthusiast from India</h3>
+<h3 align="center">A passionate software engineer and data-enthusiast from India</h3>
 
 <a href="https://www.linkedin.com/in/aayan-nayak-921b2319b/">
   <img align="left" alt="Aayan's Linkedin Account" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

@@ -1,8 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Aayan</h1>
 <h3 align="center">A passionate software engineer working on cybersecurity and data</h3>
-
-  <img align="left" alt="Aayan's Linkedin Account" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayan01&label=Profile%20views&color=0e75b6&style=flat" alt="aayan01" /> </p>
 <br />
 

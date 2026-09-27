@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Aayan</h1>
-<h3 align="center">A passionate software engineer working on cybersecurity and data</h3>
+<h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayan01&label=Profile%20views&color=0e75b6&style=flat" alt="aayan01" /> </p>
 <br />
 
@@ -102,10 +102,6 @@ CLOUD & IAC       AWS Security Hub · MSFT Defender · Terraform · tfsec · GCP
 
 <div align="center">
 
-```
-INQUIRIES: aayan.nayak2001@gmail.com
-```
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aayan-n-921b2319b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
@@ -113,6 +109,6 @@ INQUIRIES: aayan.nayak2001@gmail.com
   &nbsp;
 </p>
 
-<sub>Encrypted & Continuous Assurance · ISO/IEC 42001:2023 & NIST AI RMF Compliant</sub>
+<sub>Automation helps but Intuition builds · ISO/IEC 42001:2023 & NIST AI RMF Awareness</sub>
 
 </div>
